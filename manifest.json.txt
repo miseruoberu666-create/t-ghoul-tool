@@ -1,0 +1,16 @@
+{
+  "name": "東京喰種設定判別アプリ",
+  "short_name": "喰種判別",
+  "description": "ブラウザで動く便利な自作ツール",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
